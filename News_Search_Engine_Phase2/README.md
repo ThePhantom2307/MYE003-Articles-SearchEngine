@@ -16,7 +16,7 @@
 * Commons-lang3
 
  ### Εγκατάσταση των Βιβλιοθηκών
- Όλα τα απαραίτητα ".jar" αρχεία βρίσκονται μέσα στον φάκελο "lib". Τα libraries Commons-lang3 και OpenCSV βρίσκονται στο root path του "lib" φακέλου ενώ της Lucene βρίσκονται στο "lib/lucene - 10.1.0/modules". Για να γίνουν import στο project ακολουθήστε τα παρακάτω βήματα:
+ Όλα τα απαραίτητα ".jar" αρχεία βρίσκονται μέσα στον φάκελο "lib". Τα libraries Commons-lang3 και OpenCSV βρίσκονται στο root path του "lib" φακέλου ενώ της Lucene βρίσκονται στο "lib/lucene_modules". Για να γίνουν import στο project ακολουθήστε τα παρακάτω βήματα:
 
 1) Πατήστε δεξί κλίκ πάνω στον φάκελο του project μέσα στο eclipse
 2) Επιλέξτε το "properties".
